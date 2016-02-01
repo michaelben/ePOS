@@ -1,9 +1,9 @@
 # ePOS
 Online POS
 
-web-based
-Till management
-User management
-Inventory management
-touch screen
-connected to other devices
+1. web-based
+2. Till management
+3. User management
+4. Inventory management
+5. touch screen
+6. connected to other devices
